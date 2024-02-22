@@ -1,0 +1,6 @@
+imapclient
+apscheduler
+pyrogram
+tgcrypto
+pydantic
+cashews[redis]
